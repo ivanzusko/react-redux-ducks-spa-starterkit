@@ -28,9 +28,9 @@ yarn start
 - React-Router v4
 
 ## What else?
-- [ducks](https://github.com/erikras/ducks-modular-redux) structure
-- you can use your `.eslintrc`
-- you can test your app with pre-installed `jest`
+- [ducks](https://github.com/erikras/ducks-modular-redux) structure;
+- you can use your `.eslintrc`;
+- you can test your app with pre-installed `jest`;
 
 ## Note
 You can bravely remove `src/intro` folder, and everything that is surrounded by comments in `App.js` file (lines 12 and 23).
