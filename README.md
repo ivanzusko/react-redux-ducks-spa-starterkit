@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/react--router-v4-brightgreen.svg" alt="react-router version"/>
   <img src="https://img.shields.io/badge/testing-jest-99424f.svg" alt="testing with jest"/>
   <img src="https://img.shields.io/badge/eslint-custom-463fd4.svg" alt="custom eslint config support"/>
-  <img src="https://travis-ci.org/ivanzusko/react-redux-ducks-spa-starterkit.svg?branch=master" alt="travis-web"/>
+  <a href="https://travis-ci.org/ivanzusko/react-redux-ducks-spa-starterkit" target="_blank">
+    <img src="https://travis-ci.org/ivanzusko/react-redux-ducks-spa-starterkit.svg?branch=master" alt="travis-web"/>
+  </a>
 </div>
 
 This StarterKit is built with [Create React App](https://github.com/facebookincubator/create-react-app).
