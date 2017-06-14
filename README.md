@@ -1,7 +1,7 @@
 # React Redux Ducks SPA StarterKit
 
 <div>
-  <img src="https://img.shields.io/badge/version-v1.0.0-brightgreen.svg" alt="react version"/>
+  <img src="https://img.shields.io/badge/version-v1.0.1-brightgreen.svg" alt="react version"/>
   <img src="https://img.shields.io/badge/react-v15.6.0-brightgreen.svg" alt="react version"/>
   <img src="https://img.shields.io/badge/react--router-v4-brightgreen.svg" alt="react-router version"/>
   <img src="https://img.shields.io/badge/testing-jest-99424f.svg" alt="testing with jest"/>
