@@ -1,6 +1,6 @@
 {
   "name": "react-redux-ducks-spa-starterkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "dependencies": {
     "react": "^15.6.0",
