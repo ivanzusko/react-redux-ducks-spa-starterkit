@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-ducks-spa-starterkit",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.0",
+    "react-dom": "^15.6.0",
+    "react-router-dom": "^4.1.1"
+  },
+  "devDependencies": {
+    "react-redux": "^5.0.5",
+    "react-scripts": "1.0.7",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "lint": "eslint --ext .jsx,.js ./src",
+    "lint:fix": "eslint --ext .jsx,.js ./src --fix",
+    "build": "yarn lint:fix && react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
